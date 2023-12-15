@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет всем, меня зовут Надежда 👋
+
+- 🔭 Я в самом начале пути. Программирование начала изучать 1 ноября 2022 года - теперь это красная цифра в моем календаре 😄
+- - 🌱 Сейчас изучаю JavaScript, TypeScript, Java, Python.
+- 💬 Хочу стать полноценным Full-stack разработчиком.
 
 <!--
 **NadyaDor/NadyaDor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
